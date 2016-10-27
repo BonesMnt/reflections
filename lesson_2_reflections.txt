@@ -5,7 +5,8 @@ Em que se difere a área de preparação do diretório de trabalho e do reposit�
 Qual valor você acha que ela oferece?
 	Answer
 
-Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+Como você pode usar a área de preparação para garantir que tenha um commit por 
+alteração lógica?
 
 	Answer
 
@@ -15,5 +16,10 @@ histórico organizado? Como branches ajudariam?
 	Answer
 
 Como os diagramas ajudam a visualizar a estrutura de branches?
+
+	Answer
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no 
+diagrama dessa forma?
 
 	Answer
