@@ -23,3 +23,7 @@ Qual é o resultado da mesclagem de dois branches? Por que o representamos no
 diagrama dessa forma?
 
 	Answer
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer 
+mesclagens manualmente?
+
+	Answer
